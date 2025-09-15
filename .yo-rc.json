@@ -1,0 +1,18 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "20.11.0",
+    "sdksVersions": {},
+    "version": "1.21.1",
+    "libraryName": "wsd-spfx-121-starter",
+    "libraryId": "0533a888-ec50-40c4-add9-a60863d8c968",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "wsd-spfx121-starter",
+    "solutionShortDescription": "wsd-spfx121-starter description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

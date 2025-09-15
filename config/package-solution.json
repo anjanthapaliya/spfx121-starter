@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "wsd-spfx-121-starter-client-side-solution",
+    "id": "0533a888-ec50-40c4-add9-a60863d8c968",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.21.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "wsd-spfx121-starter description"
+      },
+      "longDescription": {
+        "default": "wsd-spfx121-starter description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "wsd-spfx-121-starter Feature",
+        "description": "The feature that activates elements of the wsd-spfx-121-starter solution.",
+        "id": "32329157-500a-461c-adfb-01fd51c92a26",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/wsd-spfx-121-starter.sppkg"
+  }
+}
